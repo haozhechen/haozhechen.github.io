@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More about my skills"
-date:   2016-06-17 08:11:31 +0100
+date:   2016-06-16 08:11:31 +0100
 categories: blog
 author: haozhechen
 ---
