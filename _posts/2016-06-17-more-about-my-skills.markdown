@@ -15,7 +15,7 @@ Mobile Development (Android/IOS/Oculus VR):
 Enriched mobile development experience by several academic projects, including a java web service implementation in Android and a 3D sensor shooting game in both Android/IOS platforms.
 Has experience in Unity3D game development with C# script, familiar with 3D modeling tool Blender, mobile sensor integration (Like Accelerometer) and Oculus VR development.
 
-Web Development:
+Web Development and Cloud Technology:
 
 Has extensive experience in VERSION CONTROL tools like Git.
 Has good knowledge in Ruby and Rails (my favorite web programming language), package management tools like Bower, HomeBrew, RVM, the JavaScript task runner Grunt, and the AngularJS.
